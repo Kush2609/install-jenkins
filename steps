@@ -13,5 +13,7 @@ change HTTP_PORT=8080 to HTTP_PORT=<desired port no.>
 goto <IP Address>:<desired port no.>
 
 
+/var/lib/jenkins/secrets/initialAdminPassword
+
 
 refer : https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
